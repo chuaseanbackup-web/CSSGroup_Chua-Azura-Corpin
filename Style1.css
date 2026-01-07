@@ -1,0 +1,21 @@
+  body {background-color: #002493;}
+    
+		/*eto yung code sa text*/
+    h2 {color:white;font-family:arial;}
+    
+		/*eto yung code sa structure*/
+    table { width: 300px;
+        height: 30px;
+        border: 2px solid #212B58;
+        border-radius: 20px;
+        background-color: white;}
+
+    th {padding: 0;
+        text-align: center;
+        vertical-align: middle;}
+
+     p {margin: 0;            
+        font-size: 16px;
+        font-family: Arial;
+        color: #212B58;
+        line-height: 30px;}
