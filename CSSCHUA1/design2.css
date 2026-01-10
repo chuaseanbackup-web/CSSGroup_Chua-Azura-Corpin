@@ -1,0 +1,15 @@
+ body {background-color: white;}
+    
+		/*eto yung code sa text*/
+    h1 {color: #007c92;
+        font-family: Arial;
+        font-size: 25px;}
+
+     p {margin: 0;
+        font-family: Arial;
+        color: #007c92;
+        line-height: 30px;
+        font-size: 18px;}
+
+    hr {border-color:#007c92;
+        border-width: 2px;}

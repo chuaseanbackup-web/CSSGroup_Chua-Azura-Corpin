@@ -1,0 +1,28 @@
+  body {background-color: #009ab5;}
+    
+		/*eto yung code sa text*/
+    h2 {color:white;
+        font-family:arial;
+        font-size: 25px;}
+    
+    a {text-decoration: none;}
+
+     p {margin: 0;            
+        font-size: 20px;
+        font-family: Arial;
+        color: #007c92;
+        line-height: 30px;}
+        
+		/*eto yung code sa structure*/
+    table { width: 300px;
+        height: 50px;
+        border: 2px solid #007c92;
+        border-radius: 30px;
+        background-color: white;
+        transition: all 0.4s;}
+
+    table:hover {transform: scale(1.1);}
+
+    th {padding: 0;
+        text-align: center;
+        vertical-align: middle;}
